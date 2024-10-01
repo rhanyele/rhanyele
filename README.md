@@ -2,7 +2,7 @@
 
 I'm a tech enthusiast who loves to learn about new things.
 
-*Data Engeniering at [Localiza&Co](https://www.localizaco.com/)*
+*Specialist at [Eldorado Brasil](https://www.eldoradobrasil.com.br/)*
 
 ### Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhanyele-marinho)
